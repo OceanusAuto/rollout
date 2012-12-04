@@ -116,7 +116,7 @@ class Rollout
     def active_globally?(feature)
       #@redis.sismember(global_key, feature)
       puts "ative globally %%% = #{active_percentage(feature)}"
-      puts (100 == active_percentage(feature))
+      puts (100.to_i == active_percentage(feature).to_i)
       (100 == active_percentage(feature))
     end
 
