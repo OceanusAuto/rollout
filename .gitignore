@@ -17,5 +17,5 @@ coverage
 rdoc
 pkg
 *.gem
-.idea
+.idea/
 ## PROJECT::SPECIFIC
