@@ -40,7 +40,7 @@ class Rollout
     end
 
     def active?(feature, user = nil)
-      if user
+      unless user.nil?
         active_globally?(feature) ||
             user_in_active_group?(feature, user) ||
             user_active?(feature, user) ||
@@ -111,7 +111,8 @@ class Rollout
     end
 
     def active_globally?(feature)
-      @redis.sismember(global_key, feature)
+      #@redis.sismember(global_key, feature)
+      (100.to_i == active_percentage(feature).to_i)
     end
 
     def user_in_active_group?(feature, user)
