@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cded3361-9e4a-4089-8798-6e7f1763bfb2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/rollout.rb" afterPath="$PROJECT_DIR$/lib/rollout.rb" />
     </list>
     <ignored path="rollout.iws" />
@@ -25,7 +24,7 @@
       <file leaf-file-name="rollout.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/rollout.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="114" column="12" selection-start="2626" selection-end="2626" vertical-scroll-proportion="0.3982684">
+            <state line="114" column="41" selection-start="2655" selection-end="2655" vertical-scroll-proportion="0.3982684">
               <folding />
             </state>
           </provider>
@@ -43,7 +42,7 @@
       <file leaf-file-name="rollout_new.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/rollout/rollout_new.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="18" selection-start="1031" selection-end="1259" vertical-scroll-proportion="0.0">
+            <state line="154" column="66" selection-start="3316" selection-end="3316" vertical-scroll-proportion="-18.290323">
               <folding />
             </state>
           </provider>
@@ -439,14 +438,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/rollout/rollout_new.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="18" selection-start="1031" selection-end="1259" vertical-scroll-proportion="0.0">
+        <state line="154" column="66" selection-start="3316" selection-end="3316" vertical-scroll-proportion="-18.290323">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/rollout.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="12" selection-start="2626" selection-end="2626" vertical-scroll-proportion="0.3982684">
+        <state line="114" column="41" selection-start="2655" selection-end="2655" vertical-scroll-proportion="0.3982684">
           <folding />
         </state>
       </provider>

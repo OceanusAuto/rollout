@@ -112,7 +112,7 @@ class Rollout
 
     def active_globally?(feature)
       #@redis.sismember(global_key, feature)
-      100 == active_percentage(feature)
+      (100 == active_percentage(feature))
     end
 
     def user_in_active_group?(feature, user)
