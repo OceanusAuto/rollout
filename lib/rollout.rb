@@ -31,11 +31,11 @@ class Rollout
     end
 
     def activate_user(feature, user)
-      @redis.sadd(user_key(feature), user.id)
+      @redis.sadd(user_key(feature), user.login)
     end
 
     def deactivate_user(feature, user)
-      @redis.srem(user_key(feature), user.id)
+      @redis.srem(user_key(feature), user.login)
     end
 
     def define_group(group, &block)
