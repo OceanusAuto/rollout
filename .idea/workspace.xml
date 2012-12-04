@@ -24,7 +24,7 @@
       <file leaf-file-name="rollout.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/rollout.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="41" selection-start="2904" selection-end="2904" vertical-scroll-proportion="0.43073592">
+            <state line="118" column="11" selection-start="2874" selection-end="2874" vertical-scroll-proportion="0.43073592">
               <folding />
             </state>
           </provider>
@@ -445,7 +445,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/rollout.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="41" selection-start="2904" selection-end="2904" vertical-scroll-proportion="0.43073592">
+        <state line="118" column="11" selection-start="2874" selection-end="2874" vertical-scroll-proportion="0.43073592">
           <folding />
         </state>
       </provider>
