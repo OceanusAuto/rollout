@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cded3361-9e4a-4089-8798-6e7f1763bfb2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/rollout.rb" afterPath="$PROJECT_DIR$/lib/rollout.rb" />
     </list>
@@ -25,7 +26,16 @@
       <file leaf-file-name="rollout.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/rollout.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="12" selection-start="982" selection-end="988" vertical-scroll-proportion="0.064935066">
+            <state line="112" column="33" selection-start="2577" selection-end="2577" vertical-scroll-proportion="0.10958904">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="5" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -101,6 +111,7 @@
         <option value="$PROJECT_DIR$/lib/rollout/legacy.rb" />
         <option value="$PROJECT_DIR$/lib/rollout/version.rb" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/lib/rollout.rb" />
       </list>
     </option>
@@ -339,13 +350,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/rollout/version.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="110" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state line="39" column="37" selection-start="680" selection-end="680" vertical-scroll-proportion="0.0">
@@ -444,9 +448,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="5" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/rollout.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="12" selection-start="982" selection-end="988" vertical-scroll-proportion="0.064935066">
+        <state line="112" column="33" selection-start="2577" selection-end="2577" vertical-scroll-proportion="0.10958904">
           <folding />
         </state>
       </provider>
