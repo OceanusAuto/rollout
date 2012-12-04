@@ -1,5 +1,5 @@
 class Rollout
-  class Feature
+  #class Feature
     def initialize(redis)
       @redis  = redis
       @groups = {"all" => lambda { |user| true }}
@@ -130,5 +130,5 @@ class Rollout
       return false if percentage.nil?
       user.id % 100 < percentage.to_i
     end
-  end
+#  end
 end
