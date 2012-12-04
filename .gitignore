@@ -1,6 +1,5 @@
 ## MAC OS
 .DS_Store
-.idea
 ## TEXTMATE
 *.tmproj
 tmtags
@@ -18,5 +17,5 @@ coverage
 rdoc
 pkg
 *.gem
-
+ !/.idea
 ## PROJECT::SPECIFIC
