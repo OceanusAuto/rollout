@@ -40,7 +40,8 @@ class Rollout
     end
 
     def active?(feature, user = nil)
-      if user
+      puts "%%% = #{active_percentage(feature)}"
+      unless user.nil?
         active_globally?(feature) ||
             user_in_active_group?(feature, user) ||
             user_active?(feature, user) ||
