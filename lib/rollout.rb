@@ -1,7 +1,7 @@
 require "zlib"
 
 class Rollout
-  class Legacy
+  class Feature
     def initialize(redis)
       @redis  = redis
       @groups = {"all" => lambda { |user| true }}
@@ -124,7 +124,7 @@ class Rollout
     end
 
     def user_active?(feature, user)
-      @redis.sismember(user_key(feature), user.id)
+      @redis.sismember(user_key(feature), user.login)
     end
 
     def user_within_active_percentage?(feature, user)
