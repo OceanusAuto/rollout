@@ -4,7 +4,6 @@
     <list default="true" id="cded3361-9e4a-4089-8798-6e7f1763bfb2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/rollout.rb" afterPath="$PROJECT_DIR$/lib/rollout.rb" />
     </list>
     <ignored path="rollout.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,19 +22,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="rollout.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="rollout.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/rollout.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="112" column="33" selection-start="2577" selection-end="2577" vertical-scroll-proportion="0.10958904">
+            <state line="112" column="33" selection-start="2577" selection-end="2577" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="5" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
+            <state line="19" column="5" selection-start="134" selection-end="134" vertical-scroll-proportion="0.6076759">
               <folding />
             </state>
           </provider>
@@ -53,7 +52,7 @@
       <file leaf-file-name="rollout_new.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/rollout/rollout_new.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="154" column="66" selection-start="3316" selection-end="3316" vertical-scroll-proportion="-18.290323">
+            <state line="154" column="66" selection-start="3316" selection-end="3316" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -111,8 +110,8 @@
         <option value="$PROJECT_DIR$/lib/rollout/legacy.rb" />
         <option value="$PROJECT_DIR$/lib/rollout/version.rb" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/lib/rollout.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -282,7 +281,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25799087" sideWeight="0.6704981" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2625571" sideWeight="0.6704981" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -443,21 +442,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/rollout/rollout_new.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="66" selection-start="3316" selection-end="3316" vertical-scroll-proportion="-18.290323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="5" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
+        <state line="154" column="66" selection-start="3316" selection-end="3316" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/rollout.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="33" selection-start="2577" selection-end="2577" vertical-scroll-proportion="0.10958904">
+        <state line="112" column="33" selection-start="2577" selection-end="2577" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="5" selection-start="134" selection-end="134" vertical-scroll-proportion="0.6076759">
           <folding />
         </state>
       </provider>
