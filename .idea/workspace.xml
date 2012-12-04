@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cded3361-9e4a-4089-8798-6e7f1763bfb2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/rollout.rb" afterPath="$PROJECT_DIR$/lib/rollout.rb" />
     </list>
     <ignored path="rollout.iws" />
@@ -24,7 +25,7 @@
       <file leaf-file-name="rollout.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/rollout.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="55" selection-start="2918" selection-end="2918" vertical-scroll-proportion="0.43073592">
+            <state line="42" column="12" selection-start="982" selection-end="988" vertical-scroll-proportion="0.064935066">
               <folding />
             </state>
           </provider>
@@ -445,7 +446,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/rollout.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="55" selection-start="2918" selection-end="2918" vertical-scroll-proportion="0.43073592">
+        <state line="42" column="12" selection-start="982" selection-end="988" vertical-scroll-proportion="0.064935066">
           <folding />
         </state>
       </provider>

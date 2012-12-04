@@ -40,15 +40,12 @@ class Rollout
     end
 
     def active?(feature, user = nil)
-      puts "%%% = #{active_percentage(feature)}"
       unless user.nil?
-        puts "user not nil %%% = #{active_percentage(feature)}"
         active_globally?(feature) ||
             user_in_active_group?(feature, user) ||
             user_active?(feature, user) ||
             user_within_active_percentage?(feature, user)
       else
-        puts "user IS nil %%% = #{active_percentage(feature)}"
         active_globally?(feature)
       end
     end
@@ -115,9 +112,7 @@ class Rollout
 
     def active_globally?(feature)
       #@redis.sismember(global_key, feature)
-      puts "ative globally %%% = #{active_percentage(feature)}"
-      puts (100.to_i == active_percentage(feature).to_i)
-      (100 == active_percentage(feature))
+      (100.to_i == active_percentage(feature).to_i)
     end
 
     def user_in_active_group?(feature, user)
