@@ -1,5 +1,3 @@
-require "zlib"
-
 class Rollout
   class Feature
     def initialize(redis)
