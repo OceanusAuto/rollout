@@ -1,6 +1,5 @@
 ## MAC OS
 .DS_Store
-
 ## TEXTMATE
 *.tmproj
 tmtags
@@ -20,4 +19,5 @@ pkg
 *.gem
 gemfiles/*.lock
 
+ !/.idea
 ## PROJECT::SPECIFIC
